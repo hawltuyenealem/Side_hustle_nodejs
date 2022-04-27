@@ -1,0 +1,21 @@
+{
+  "name": "group_56_capstone1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawltuyenealem/Side_hustle_nodejs.git"
+  },
+  "author": "group_56",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawltuyenealem/Side_hustle_nodejs/issues"
+  },
+  "homepage": "https://github.com/hawltuyenealem/Side_hustle_nodejs#readme"
+}
