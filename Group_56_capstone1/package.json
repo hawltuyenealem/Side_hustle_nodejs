@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/hawltuyenealem/Side_hustle_nodejs/issues"
   },
-  "homepage": "https://github.com/hawltuyenealem/Side_hustle_nodejs#readme"
+  "homepage": "https://github.com/hawltuyenealem/Side_hustle_nodejs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
